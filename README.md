@@ -1,10 +1,10 @@
 <br clear="both">
 
 <h2 align="left">
-Olá 👋, Meu nome é Alysson Albuquerque <br>
-🎓 Estudante de Sistemas de Informação <br>
-💻 Desenvolvedor Back-end em formação <br>
-🚀 Em busca de oportunidade de estágio
+Olá, Meu nome é Alysson Albuquerque <br>
+- Estudante de Sistemas de Informação <br>
+- Desenvolvedor Back-end em formação <br>
+- Em busca de oportunidade de estágio
 </h2>
 
 ###
